@@ -1,0 +1,22 @@
+C:\Users\USER\source\repos\tabla sumadera\tabla sumadera\bin\Debug\tabla sumadera.exe.config
+C:\Users\USER\source\repos\tabla sumadera\tabla sumadera\bin\Debug\tabla sumadera.exe
+C:\Users\USER\source\repos\tabla sumadera\tabla sumadera\bin\Debug\tabla sumadera.pdb
+C:\Users\USER\source\repos\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\tabla sumadera\tabla sumadera\obj\Debug\tabla_sumadera.Form1.resources
+C:\Users\USER\source\repos\tabla sumadera\tabla sumadera\obj\Debug\tabla_sumadera.Properties.Resources.resources
+C:\Users\USER\source\repos\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.exe
+C:\Users\USER\source\repos\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.pdb
+C:\Users\Emanuel\Source\Repos\tablasuma\tabla sumadera\tabla sumadera\bin\Debug\tabla sumadera.exe.config
+C:\Users\Emanuel\Source\Repos\tablasuma\tabla sumadera\tabla sumadera\bin\Debug\tabla sumadera.exe
+C:\Users\Emanuel\Source\Repos\tablasuma\tabla sumadera\tabla sumadera\bin\Debug\tabla sumadera.pdb
+C:\Users\Emanuel\Source\Repos\tablasuma\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Source\Repos\tablasuma\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Source\Repos\tablasuma\tabla sumadera\tabla sumadera\obj\Debug\tabla_sumadera.Form1.resources
+C:\Users\Emanuel\Source\Repos\tablasuma\tabla sumadera\tabla sumadera\obj\Debug\tabla_sumadera.Properties.Resources.resources
+C:\Users\Emanuel\Source\Repos\tablasuma\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.csproj.GenerateResource.cache
+C:\Users\Emanuel\Source\Repos\tablasuma\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Source\Repos\tablasuma\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.exe
+C:\Users\Emanuel\Source\Repos\tablasuma\tabla sumadera\tabla sumadera\obj\Debug\tabla sumadera.pdb
